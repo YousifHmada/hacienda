@@ -4,10 +4,7 @@
 - Download the source code files from the [CRC ](https://github.com/AbdelrhmanMagdy/CSE-Networks/tree/master/CRC_Algorithm).
 - Run the executable files
 
-### Samples:
-**Example:**
 
-![alt crc example](https://github.com/AbdelrhmanMagdy/CSE-Networks/blob/master/Examples/crc.png)
 
 **Generator:**
 ```
