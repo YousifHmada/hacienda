@@ -1,7 +1,7 @@
-## CRC implementation (CSE-2019) Ain-Shams University
+## CRC implementation 
 
 **How to use:**
-- Download the source code files from the [CRC ](https://github.com/AbdelrhmanMagdy/CSE-Networks/tree/master/CRC_Algorithm).
+- Download the executable files from the [dist.zip].
 - Run the executable files
 
 
